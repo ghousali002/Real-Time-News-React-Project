@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@fortawesome/free-solid-svg-icons": "^6.4.2",
+    "axios": "^1.5.1",
+    "date-fns": "^2.30.0",
+    "i18next": "^23.5.1",
+    "react-i18next": "^13.2.2"
+  }
+}
